@@ -11,7 +11,7 @@ USER=OSX-RSPlug-a
 
 HOST=https://github.com/OSX-RSPlug-a/AllGoo_test.git
 
-GIT_PATH=https://github.com/OSX-RSPlug-a/AllGoo_test.git
+GIT_PATH=OSX-RSPlug-a/AllGoo_test
 
 REPO=${PWD##*/}
 GIT_REMOTE_URL=https://github.com/OSX-RSPlug-a/AllGoo_test.git
